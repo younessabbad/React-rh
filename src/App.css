@@ -1,0 +1,16 @@
+
+
+ .container mt-5
+{ 
+   border-radius: 50% 50%;
+   height: 30px;
+   width: 50px;
+   text-align: center;
+    margin: auto 10px auto 8px;
+} 
+.Pa_d
+{
+    border-left-width: 0px;
+    border-left-style: solid;
+    margin-top: 50px;
+}
